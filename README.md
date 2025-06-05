@@ -1,4 +1,4 @@
-# Conducting-a-Security-Audit (Botium Toys - Cyberecurity Audit & Improvement Plan)
+# Botium Toys - Security Audit & Improvement Plan
 
 ## Project Overview:
 
