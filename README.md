@@ -5,24 +5,24 @@ Botium Toys - Cybersecurity Audit & Improvement Plan
 
 This project involved a comprehensive cybersecurity assessment for the fictional company, ***Botium Toys***. The primary goal was to analyze their existing security posture, identify vulnerabilities, and recommend actionable steps for improvement, particularly concerning their handling of sensitive data and compliance requirements.
 
-Security Audit check and summary is in [Controls and compliance checklist - Gilberth Manrique]()
+Security Audit check and summary is in [Controls and compliance checklist - Gilberth Manrique](https://docs.google.com/document/d/1eHHuZnmG7R7snKZpuEQE5EGCfeBS9vE76Wo7exYMtO4/edit?usp=sharing)
 
 ## Process & Methodology:
 
-**-Initial Assessment:** Reviewed Botium Toys' risk assessment report and utilized a security controls guide to complete a compliance and controls checklist. This helped to clearly identify existing security measures and significant gaps.
+**-Initial Assessment:** Reviewed [Botium Toys' risk assessment report](https://docs.google.com/document/d/1DIUSNPDelAgPOgVkeCpJQUHUEXjCk3U5gz1rGBMRyqQ/edit?tab=t.0) and utilized a [security controls guide](https://docs.google.com/document/d/1Tq_0eCgcnFa4TZVxts1C1rh7xY_2pf521y0HktnA6vk/edit?usp=sharing) to complete a compliance and controls checklist. This helped to clearly identify existing security measures and significant gaps.
 
 **-AI-Powered Analysis & Verification:** Leveraged an advanced AI tool to independently analyze the provided company documents (scope, risk assessment, control categories) and generate a comparative checklist.
-This cross-verification process was crucial in identifying initial oversights in my manual assessment. For example, I initially missed that "the IT department did have a plan to notify E.U. customers of breaches within 72 hours  and that they enforced privacy policies to document and maintain data." Using AI for verification enhanced the accuracy of the security judgment, allowing for further investigation and correction of these initial misinterpretations.
+This cross-verification process was crucial in identifying initial oversights in my manual assessment. For example, I initially missed that "the IT department did have a plan to notify E.U. customers of breaches within 72 hours  and that they enforced privacy policies to document and maintain data." [Using AI for verification enhanced the accuracy of my judgment](https://github.com/user-attachments/assets/c2abe009-1750-4c32-b1ec-685500113c98), allowing for further investigation and correction of these initial misinterpretations.
 
 **-Stakeholder Reporting:** Developed a concise and professional summary for Botium Toys' stakeholders and upper management. This report highlighted the current security standing, areas needing immediate attention, and a clear path forward, including:
  
- *Creating a Risk Assessment Matrix to weigh vulnerability likelihood against impact severity.*
+ **Creating a Risk Assessment Matrix to weigh vulnerability likelihood against impact severity.*
  
- *Prioritizing changes to address critical issues first and minimize operational impact.*
+ **Prioritizing changes to address critical issues first and minimize operational impact.*
  
- *Focusing on achieving and maintaining compliance with industry standards.*
+ **Focusing on achieving and maintaining compliance with industry standards.*
 
- *Implementing necessary security controls to protect against internal and external threats.*
+ **Implementing necessary security controls to protect against internal and external threats.*
 
 ## Outcome:
 
