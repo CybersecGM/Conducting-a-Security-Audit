@@ -14,13 +14,13 @@ This cross-verification process was crucial in identifying initial oversights in
 
 **-Stakeholder Reporting:** Developed a concise and professional summary for Botium Toys' stakeholders and upper management. This report highlighted the current security standing, areas needing immediate attention, and a clear path forward, including:
  
- *Creating a Risk Assessment Matrix to weigh vulnerability likelihood against impact severity.
+ *Creating a Risk Assessment Matrix to weigh vulnerability likelihood against impact severity.*
  
- *Prioritizing changes to address critical issues first and minimize operational impact.
+ *Prioritizing changes to address critical issues first and minimize operational impact.*
  
- *Focusing on achieving and maintaining compliance with industry standards.
+ *Focusing on achieving and maintaining compliance with industry standards.*
 
- *Implementing necessary security controls to protect against internal and external threats.
+ *Implementing necessary security controls to protect against internal and external threats.*
 
 ## Outcome:
 
