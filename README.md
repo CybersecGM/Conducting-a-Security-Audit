@@ -5,6 +5,8 @@ Botium Toys - Cybersecurity Audit & Improvement Plan
 
 This project involved a comprehensive cybersecurity assessment for the fictional company, ***Botium Toys***. The primary goal was to analyze their existing security posture, identify vulnerabilities, and recommend actionable steps for improvement, particularly concerning their handling of sensitive data and compliance requirements.
 
+Security Audit check and summary is in [Controls and compliance checklist - Gilberth Manrique]()
+
 ## Process & Methodology:
 
 **-Initial Assessment:** Reviewed Botium Toys' risk assessment report and utilized a security controls guide to complete a compliance and controls checklist. This helped to clearly identify existing security measures and significant gaps.
