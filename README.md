@@ -4,7 +4,7 @@
 
 This project involved a comprehensive cybersecurity assessment for the fictional company, ***Botium Toys***. The primary goal was to analyze their existing security posture, identify vulnerabilities, and recommend actionable steps for improvement, particularly concerning their handling of sensitive data and compliance requirements.
 
-Security Audit Checklist and Summary Doc: [Controls and compliance checklist - Gilberth Manrique](https://docs.google.com/document/d/1eHHuZnmG7R7snKZpuEQE5EGCfeBS9vE76Wo7exYMtO4/edit?usp=sharing)
+>Security Audit Checklist and Recommendations Doc: [Controls and compliance checklist - Gilberth Manrique](https://docs.google.com/document/d/1eHHuZnmG7R7snKZpuEQE5EGCfeBS9vE76Wo7exYMtO4/edit?usp=sharing)
 
 ## Process & Methodology:
 
