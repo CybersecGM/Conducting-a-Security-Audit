@@ -12,7 +12,9 @@ This project involved a comprehensive cybersecurity assessment for the fictional
 
 - <b>AI-Powered Analysis & Verification:</b> I leveraged Gemini 2.5 pro to independently analyze the provided company documents (scope, risk assessment, control categories) and generate a comparative checklist. This cross-verification process was crucial in identifying initial oversights in my manual assessment. For example, I initially missed that "*the IT department did have a plan to notify E.U. customers of breaches within 72 hours  and that they enforced privacy policies to document and maintain data.*" Using AI for verification enhanced the accuracy of my judgment, allowing for further investigation and correction of these initial misinterpretations.
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/4ba4dfe7-aa16-43c5-a9ae-a524d9436aa2" width="700" height="200">
+</p>
 
 - <b>Stakeholder Reporting:</b> I developed a concise and professional summary for Botium Toys' stakeholders and upper management. This report highlighted the current security standing, areas needing immediate attention, and a clear path forward, including:
   - Creating a Risk Assessment Matrix to weigh vulnerability likelihood against impact severity.
